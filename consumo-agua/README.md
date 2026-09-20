@@ -1,8 +1,8 @@
-\# Projeto - Consumo de Água
-📝Esse projeto foi feito para o curso ETEC agenda 7 Desmvolvimento de Sistema 1.  
+# Projeto - Consumo de Água
 
-💻o objetivo era mostrar como o computador toma decisões programadas utilizando if, elif, and, or e not.  
-  
+
+📝Esse projeto foi feito para o curso ETEC agenda 7 Desmvolvimento de Sistema 1.<br>
+💻o objetivo era mostrar como o computador toma decisões programadas utilizando if, elif, and, or e not.<br>
  linha 2 - pergunta o valor da variavel imovel, e .lower() faz ignorar se a resposta estiver em maiuscula ou minuscula;<br>
  linha 4 - pergunta o valor da variavel  consumo_mensal;<br>
  linha 6 - a 12 faz com que todo valor dado que não seja o valor pedido, mande uma resposta de valor incorreto;<br>
